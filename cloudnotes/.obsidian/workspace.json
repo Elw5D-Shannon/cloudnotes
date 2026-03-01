@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test 1.md",
+                "file": "luogu 缩写.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test 1"
+              "title": "luogu 缩写"
             }
           }
         ]
@@ -194,8 +194,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "974359c74477e83c",
+  "active": "9f5bc3a9d5793627",
   "lastOpenFiles": [
+    "test 1.md",
+    "luogu 缩写.md",
     "MarkDown超级教程 Obsidian版.md",
     "git/PR.md",
     "git",
@@ -238,8 +240,6 @@
     "C++/日常工具",
     "C++/基本语法/赋值.md",
     "C++/基本语法/注释.md",
-    "C++/基本语法/数据类型.md",
-    "C++/基本语法/C++ 基本语法.md",
     "C++/基本语法",
     "C++"
   ]
