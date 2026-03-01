@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/Git codes detailed.md",
+                "file": "C++/算法/最小生成树.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git codes detailed"
+              "title": "最小生成树"
             }
           }
         ]
@@ -196,8 +196,10 @@
   },
   "active": "9f5bc3a9d5793627",
   "lastOpenFiles": [
-    "git/Git codes.md",
+    "C++/算法/最短路算法.md",
+    "C++/算法/最小生成树.md",
     "git/Git codes detailed.md",
+    "git/Git codes.md",
     "git/git克隆github项目到本地的三种方式.md",
     "git/advice from deepseek.md",
     "git/PR.md",
@@ -236,8 +238,6 @@
     "C++/日常工具/assets/0_2.png",
     "C++/日常工具/assets/0_1.png",
     "C++/日常工具/结构体详解.md",
-    "C++/日常工具/结构体.md",
-    "C++/日常工具/循环.md",
     "C++/日常工具/assets",
     "C++/日常工具",
     "C++/基本语法",
