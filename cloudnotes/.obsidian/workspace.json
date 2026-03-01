@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/将本地已经创建git库的obsidian vault 提交至 github.md",
+                "file": "C++/概念/数组.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "将本地已经创建git库的obsidian vault 提交至 github"
+              "title": "数组"
             }
           }
         ]
@@ -127,6 +127,53 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "c58334f66bace5c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C++/概念/数组.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "数组 的反向链接列表"
+            }
+          },
+          {
+            "id": "698b5802ef826799",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C++/概念/数组.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "数组 的出链列表"
+            }
+          },
+          {
+            "id": "5299dc09579d0ad2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
           }
         ],
         "currentTab": 2
@@ -149,6 +196,7 @@
   },
   "active": "9f5bc3a9d5793627",
   "lastOpenFiles": [
+    "git/将本地已经创建git库的obsidian vault 提交至 github.md",
     "C++/算法/动态规划.md",
     "git/未命名.md",
     "C++/算法/最小生成树.md",
@@ -156,7 +204,6 @@
     "git/Git codes detailed.md",
     "git/Git codes.md",
     "git/git克隆github项目到本地的三种方式.md",
-    "git/将本地已经创建git库的obsidian vault 提交至 github.md",
     "git/PR.md",
     "MarkDown超级教程 Obsidian版.md",
     "test 1.md",
