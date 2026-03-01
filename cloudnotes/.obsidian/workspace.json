@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/算法/最小生成树.md",
+                "file": "C++/算法/动态规划.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "最小生成树"
+              "title": "动态规划"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "9f5bc3a9d5793627",
   "lastOpenFiles": [
-    "C++/算法/最短路算法.md",
     "C++/算法/最小生成树.md",
+    "C++/算法/最短路算法.md",
     "git/Git codes detailed.md",
     "git/Git codes.md",
     "git/git克隆github项目到本地的三种方式.md",
