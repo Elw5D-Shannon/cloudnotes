@@ -89,53 +89,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb7cb32b88a102a7",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "test 1.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "test 1 的反向链接列表"
-            }
-          },
-          {
-            "id": "18e06c9b77bef6c2",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "test 1.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "test 1 的出链列表"
-            }
-          },
-          {
-            "id": "f6ffe84760123b1a",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
-            }
-          },
-          {
             "id": "3b2cc16eb5c60161",
             "type": "leaf",
             "state": {
@@ -156,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test 1.md",
+                "file": "C++/算法/动态规划.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "test 1 的大纲"
+              "title": "动态规划 的大纲"
             }
           },
           {
@@ -176,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -194,7 +147,7 @@
       "bases:新建数据库": false
     }
   },
-  "active": "9f5bc3a9d5793627",
+  "active": "2dd04a6c97155e4c",
   "lastOpenFiles": [
     "C++/算法/最小生成树.md",
     "C++/算法/最短路算法.md",
