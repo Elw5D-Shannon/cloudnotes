@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/逻辑运算/逻辑运算.md",
+                "file": "C++/日常工具/判断.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "逻辑运算"
+              "title": "判断"
             }
           }
         ]
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/逻辑运算/逻辑运算.md",
+                "file": "C++/日常工具/判断.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "逻辑运算 的大纲"
+              "title": "判断 的大纲"
             }
           },
           {
@@ -134,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/逻辑运算/逻辑运算.md",
+                "file": "C++/日常工具/判断.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "逻辑运算 的出链列表"
+              "title": "判断 的出链列表"
             }
           },
           {
@@ -177,6 +177,8 @@
   },
   "active": "9f5bc3a9d5793627",
   "lastOpenFiles": [
+    "C++/日常工具/循环.md",
+    "C++/逻辑运算/逻辑运算.md",
     "C++/基本语法/数据类型.md",
     "C++/日常工具/Notice.md",
     "C++/to be understood.md",
@@ -196,14 +198,12 @@
     "C++/输入输出/格式化输出.md",
     "C++/输入输出/基本输入输出.md",
     "C++/概念/数组.md",
-    "C++/日常工具/循环.md",
     "git/将本地已经创建git库的obsidian vault 提交至 github.md",
     "git/未命名.md",
     "git/Git codes detailed.md",
     "git/Git codes.md",
     "git/git克隆github项目到本地的三种方式.md",
     "git/PR.md",
-    "MarkDown超级教程 Obsidian版.md",
     "git",
     "C++/逻辑运算/images/Pasted image 20260226162110.png",
     "C++/逻辑运算/images/Pasted image 20260226162108.png",
