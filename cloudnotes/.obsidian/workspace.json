@@ -157,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,7 +175,7 @@
       "bases:新建数据库": false
     }
   },
-  "active": "9f5bc3a9d5793627",
+  "active": "ad7d3d6059c4dd77",
   "lastOpenFiles": [
     "C++/日常工具/判断.md",
     "C++/例题/P1516 青蛙的约会.md",
