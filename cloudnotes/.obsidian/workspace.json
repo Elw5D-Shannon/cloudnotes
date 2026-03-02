@@ -129,25 +129,6 @@
             }
           },
           {
-            "id": "c58334f66bace5c4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "C++/概念/数组.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "数组 的反向链接列表"
-            }
-          },
-          {
             "id": "698b5802ef826799",
             "type": "leaf",
             "state": {
@@ -176,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,6 +178,8 @@
   "active": "9f5bc3a9d5793627",
   "lastOpenFiles": [
     "C++/日常工具/结构体.md",
+    "C++/日常工具/vector.md",
+    "C++/日常工具/结构体详解.md",
     "C++/日常工具/判断.md",
     "C++/输入输出/特殊输入.md",
     "C++/输入输出/格式化输出.md",
@@ -204,7 +187,6 @@
     "C++/日常工具/Notice.md",
     "C++/概念/数组.md",
     "C++/日常工具/循环.md",
-    "C++/日常工具/vector.md",
     "git/将本地已经创建git库的obsidian vault 提交至 github.md",
     "C++/算法/动态规划.md",
     "git/未命名.md",
@@ -233,7 +215,6 @@
     "C++/逻辑运算/images",
     "C++/逻辑运算",
     "C++/输入输出",
-    "C++/算法/全排列.md",
     "C++/算法",
     "C++/概念",
     "C++/日常工具/assets/0_2.png",
