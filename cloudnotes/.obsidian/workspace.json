@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/概念/数组.md",
+                "file": "C++/日常工具/Notice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数组"
+              "title": "Notice"
             }
           }
         ]
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/概念/数组.md",
+                "file": "C++/日常工具/Notice.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "数组 的大纲"
+              "title": "Notice 的大纲"
             }
           },
           {
@@ -196,8 +196,8 @@
   },
   "active": "9f5bc3a9d5793627",
   "lastOpenFiles": [
-    "C++/日常工具/循环.md",
     "C++/概念/数组.md",
+    "C++/日常工具/循环.md",
     "C++/日常工具/vector.md",
     "C++/日常工具/Notice.md",
     "git/将本地已经创建git库的obsidian vault 提交至 github.md",
