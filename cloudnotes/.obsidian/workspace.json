@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/例题/P1516 青蛙的约会.md",
+                "file": "C++/算法/最小公约数_gcd和exgcd算法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "P1516 青蛙的约会"
+              "title": "最小公约数_gcd和exgcd算法"
             }
           }
         ]
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/例题/P1516 青蛙的约会.md",
+                "file": "C++/算法/最小公约数_gcd和exgcd算法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "P1516 青蛙的约会 的大纲"
+              "title": "最小公约数_gcd和exgcd算法 的大纲"
             }
           },
           {
@@ -134,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/例题/P1516 青蛙的约会.md",
+                "file": "C++/算法/最小公约数_gcd和exgcd算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "P1516 青蛙的约会 的出链列表"
+              "title": "最小公约数_gcd和exgcd算法 的出链列表"
             }
           },
           {
@@ -175,10 +175,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "ad7d3d6059c4dd77",
+  "active": "9f5bc3a9d5793627",
   "lastOpenFiles": [
-    "C++/日常工具/判断.md",
     "C++/例题/P1516 青蛙的约会.md",
+    "C++/算法/最小公约数_gcd和exgcd算法.md",
+    "C++/日常工具/判断.md",
     "C++/日常工具/循环.md",
     "C++/逻辑运算/逻辑运算.md",
     "C++/基本语法/数据类型.md",
@@ -203,7 +204,6 @@
     "git/未命名.md",
     "git/Git codes detailed.md",
     "git/Git codes.md",
-    "git/git克隆github项目到本地的三种方式.md",
     "git",
     "C++/逻辑运算/images/Pasted image 20260226162110.png",
     "C++/逻辑运算/images/Pasted image 20260226162108.png",
