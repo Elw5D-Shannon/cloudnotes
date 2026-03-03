@@ -161,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,7 +175,7 @@
       "bases:新建数据库": false
     }
   },
-  "active": "9f5bc3a9d5793627",
+  "active": "2dd04a6c97155e4c",
   "lastOpenFiles": [
     "C++/例题/U643929的一些思考.md",
     "DS/未命名.md",
