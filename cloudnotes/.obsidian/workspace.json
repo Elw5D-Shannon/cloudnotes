@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/算法/前缀和.md",
+                "file": "C++/算法/扩展欧几里得算法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "前缀和"
+              "title": "扩展欧几里得算法"
             }
           }
         ]
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/算法/前缀和.md",
+                "file": "C++/算法/扩展欧几里得算法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "前缀和 的大纲"
+              "title": "扩展欧几里得算法 的大纲"
             }
           },
           {
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/算法/前缀和.md",
+                "file": "C++/算法/扩展欧几里得算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "前缀和 的反向链接列表"
+              "title": "扩展欧几里得算法 的反向链接列表"
             }
           }
         ],
@@ -196,6 +196,7 @@
   },
   "active": "9f5bc3a9d5793627",
   "lastOpenFiles": [
+    "C++/算法/前缀和.md",
     "C++/算法/动态规划_DP算法.md",
     "C++/算法/最小生成树.md",
     "C++/算法/O2优化.md",
@@ -213,7 +214,6 @@
     "C++/日常工具/Notice.md",
     "C++/算法/扩展欧几里得算法.md",
     "C++/算法/最小公约数_gcd和exgcd算法.md",
-    "C++/算法/前缀和.md",
     "C++/输入输出/特殊输入.md",
     "C++/例题/U643929 解答.md",
     "C++/例题/U643929的一些思考.md",
