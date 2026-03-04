@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/例题/P3901 数列找不同.md",
+                "file": "C++/日常工具/循环.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "P3901 数列找不同"
+              "title": "循环"
             }
           }
         ]
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/例题/P3901 数列找不同.md",
+                "file": "C++/日常工具/循环.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "P3901 数列找不同 的反向链接列表"
+              "title": "循环 的反向链接列表"
             }
           }
         ],
@@ -196,8 +196,8 @@
   },
   "active": "9f5bc3a9d5793627",
   "lastOpenFiles": [
-    "C++/日常工具/vector.md",
     "C++/例题/P3901 数列找不同.md",
+    "C++/日常工具/vector.md",
     "C++/日常工具/Notice.md",
     "C++/算法/扩展欧几里得算法.md",
     "C++/算法/最小公约数_gcd和exgcd算法.md",
