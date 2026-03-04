@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/算法/最小公约数_gcd和exgcd算法.md",
+                "file": "C++/算法/乘法逆元.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "最小公约数_gcd和exgcd算法 的大纲"
+              "title": "乘法逆元 的大纲"
             }
           },
           {
@@ -176,11 +176,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,7 +194,7 @@
       "bases:新建数据库": false
     }
   },
-  "active": "9f5bc3a9d5793627",
+  "active": "ad7d3d6059c4dd77",
   "lastOpenFiles": [
     "C++/输入输出/格式化输出.md",
     "C++/算法/乘法逆元.md",
