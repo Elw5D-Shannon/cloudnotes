@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学/概念/未命名.md",
+                "file": "高等数学/概念/全微分.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "全微分"
             }
           }
         ]
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高等数学/概念/未命名.md",
+                "file": "高等数学/概念/全微分.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "全微分 的大纲"
             }
           },
           {
@@ -197,7 +197,7 @@
   "active": "9f5bc3a9d5793627",
   "lastOpenFiles": [
     "Computer Science/C++/例题/Pasted image 20260302210306.png",
-    "高等数学/概念/未命名.md",
+    "高等数学/概念/全微分.md",
     "高等数学/概念",
     "Computer Science",
     "高等数学",
