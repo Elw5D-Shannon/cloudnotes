@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大学物理/点积与叉积.md",
+                "file": "Computer Science/C++/概念/数组.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "点积与叉积"
+              "title": "数组"
             }
           }
         ]
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大学物理/点积与叉积.md",
+                "file": "Computer Science/C++/概念/数组.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "点积与叉积 的大纲"
+              "title": "数组 的大纲"
             }
           },
           {
@@ -196,8 +196,8 @@
   },
   "active": "9f5bc3a9d5793627",
   "lastOpenFiles": [
-    "高等数学/AI/未命名.md",
     "大学物理/点积与叉积.md",
+    "高等数学/AI/未命名.md",
     "大学物理",
     "未命名.md",
     "Computer Science/DS/尝试本地部署OI-wiki.md",
