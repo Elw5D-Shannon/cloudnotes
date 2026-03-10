@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了.md",
+                "file": "Computer Science/DS/尝试本地部署OI-wiki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了"
+              "title": "尝试本地部署OI-wiki"
             }
           }
         ]
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了.md",
+                "file": "Computer Science/DS/尝试本地部署OI-wiki.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了 的大纲"
+              "title": "尝试本地部署OI-wiki 的大纲"
             }
           },
           {
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了.md",
+                "file": "Computer Science/DS/尝试本地部署OI-wiki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了 的反向链接列表"
+              "title": "尝试本地部署OI-wiki 的反向链接列表"
             }
           }
         ],
@@ -194,8 +194,37 @@
       "bases:新建数据库": false
     }
   },
-  "active": "9f5bc3a9d5793627",
+  "active": "2dd04a6c97155e4c",
   "lastOpenFiles": [
+    "高等数学/同济高数系列/同济高数笔记（下册）（4）.md",
+    "高等数学/同济高数系列/同济高数笔记（下册）（3）.md",
+    "高等数学/同济高数系列/同济高数笔记（下册）（2）.md",
+    "高等数学/同济高数系列/同济高数笔记（下册）（1）.md",
+    "高等数学/同济高数系列/同济高数笔记（上册）.md",
+    "高等数学/同济高数系列/Pasted image 20251224000036.png",
+    "高等数学/同济高数系列/Pasted image 20251224000029.png",
+    "高等数学/同济高数系列",
+    "Computer Science/python/音频处理.md",
+    "Computer Science/python/进程管理.md",
+    "Computer Science/python/规格化编码（浮点数）简要介绍.md",
+    "Computer Science/python/网页爬取.md",
+    "Computer Science/python/知识梳理及考试范围.md",
+    "Computer Science/python/正则表达式基础讲解.md",
+    "Computer Science/python/文件管理.md",
+    "Computer Science/python/存储管理.md",
+    "Computer Science/python/图片处理.md",
+    "Computer Science/python/图像隐写.md",
+    "Computer Science/python/关键知识点.md",
+    "Computer Science/python/SQL数据库.md",
+    "Computer Science/python/python 赋值.md",
+    "Computer Science/python/Pasted image 20260128155828.png",
+    "Computer Science/python/NumPy 科学计算函数详解(精简).md",
+    "Computer Science/python/NumPy 科学计算函数详解(无修).md",
+    "Computer Science/python/IP地址.md",
+    "Computer Science/python",
+    "Computer Science/DS/DeepSeek_面向过程与面向对象编程区别_2026-03-10_09-21-12.md",
+    "Computer Science/DS/尝试本地部署OI-wiki.md",
+    "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/Docker入门教程.md",
     "Computer Science/DS/DeepSeek_Git branch diverged resolution_2026-03-10_11-14-44.md",
     "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_9.png",
     "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_8.png",
@@ -204,42 +233,14 @@
     "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_76.png",
     "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_75.png",
     "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_74.png",
-    "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_73.png",
-    "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_72.png",
-    "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_71.png",
     "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets",
-    "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了.md",
     "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了",
     "Computer Science/git/将本地已经创建git库的obsidian vault 提交至 github.md",
-    "Computer Science/git/PR.md",
-    "Computer Science/git/git克隆github项目到本地的三种方式.md",
-    "Computer Science/git/Git codes detailed.md",
-    "Computer Science/git/Git codes.md",
-    "Computer Science/DS/DeepSeek_面向过程与面向对象编程区别_2026-03-10_09-21-12.md",
-    "Computer Science/C++/概念/头文件.md",
-    "Computer Science/C++/例题/U643929 解答.md",
-    "Computer Science/C++/概念/数组.md",
-    "大学物理/点积与叉积.md",
-    "高等数学/AI/未命名.md",
     "大学物理",
-    "未命名.md",
-    "Computer Science/DS/尝试本地部署OI-wiki.md",
-    "Computer Science/DS/DeepSeek_优化乘法逆元笔记_2026-03-04_19-58-54.md",
-    "Computer Science/DS/DeepSeek_O2优化详解_2026-03-04_19-59-25.md",
-    "高等数学/概念/全微分.md",
     "高等数学/AI",
     "高等数学/概念",
     "Computer Science",
     "高等数学",
-    "MarkDown超级教程 Obsidian版.md",
-    "Computer Science/luogu 缩写.md",
-    "Computer Science/数论/费马小定理.md",
-    "Computer Science/数论/乘法逆元.md",
-    "Computer Science/codeforces/Codeforces使用指南.md",
-    "Computer Science/C++/例题/遍历逐行整数.md",
-    "Computer Science/codeforces",
-    "Computer Science/C++/例题/P1516 青蛙的约会.md",
-    "Computer Science/数论",
-    "Computer Science/DS"
+    "Computer Science/codeforces"
   ]
 }
