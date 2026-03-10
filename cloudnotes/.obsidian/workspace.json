@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/DS/尝试本地部署OI-wiki.md",
+                "file": "Computer Science/C++/日常工具/Notice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "尝试本地部署OI-wiki"
+              "title": "Notice"
             }
           }
         ]
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/DS/尝试本地部署OI-wiki.md",
+                "file": "Computer Science/C++/日常工具/Notice.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "尝试本地部署OI-wiki 的大纲"
+              "title": "Notice 的大纲"
             }
           },
           {
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/DS/尝试本地部署OI-wiki.md",
+                "file": "Computer Science/C++/日常工具/Notice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "尝试本地部署OI-wiki 的反向链接列表"
+              "title": "Notice 的反向链接列表"
             }
           }
         ],
@@ -194,8 +194,13 @@
       "bases:新建数据库": false
     }
   },
-  "active": "2dd04a6c97155e4c",
+  "active": "9f5bc3a9d5793627",
   "lastOpenFiles": [
+    "Computer Science/C++/输入输出/大小写转换.md",
+    "Computer Science/C++/输入输出/特殊输入.md",
+    "Computer Science/C++/输入输出/基本输入输出.md",
+    "Computer Science/C++/输入输出/格式化输出.md",
+    "Computer Science/DS/尝试本地部署OI-wiki.md",
     "高等数学/同济高数系列/同济高数笔记（下册）（4）.md",
     "高等数学/同济高数系列/同济高数笔记（下册）（3）.md",
     "高等数学/同济高数系列/同济高数笔记（下册）（2）.md",
@@ -222,10 +227,6 @@
     "Computer Science/python/NumPy 科学计算函数详解(无修).md",
     "Computer Science/python/IP地址.md",
     "Computer Science/python",
-    "Computer Science/DS/DeepSeek_面向过程与面向对象编程区别_2026-03-10_09-21-12.md",
-    "Computer Science/DS/尝试本地部署OI-wiki.md",
-    "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/Docker入门教程.md",
-    "Computer Science/DS/DeepSeek_Git branch diverged resolution_2026-03-10_11-14-44.md",
     "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_9.png",
     "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_8.png",
     "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_78.png",
@@ -235,7 +236,6 @@
     "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_74.png",
     "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets",
     "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了",
-    "Computer Science/git/将本地已经创建git库的obsidian vault 提交至 github.md",
     "大学物理",
     "高等数学/AI",
     "高等数学/概念",
