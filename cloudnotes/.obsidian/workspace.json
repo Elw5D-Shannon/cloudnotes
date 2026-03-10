@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/DS/DeepSeek_Git branch diverged resolution_2026-03-10_11-14-44.md",
+                "file": "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DeepSeek_Git branch diverged resolution_2026-03-10_11-14-44"
+              "title": "Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了"
             }
           }
         ]
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/DS/DeepSeek_Git branch diverged resolution_2026-03-10_11-14-44.md",
+                "file": "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "DeepSeek_Git branch diverged resolution_2026-03-10_11-14-44 的大纲"
+              "title": "Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了 的大纲"
             }
           },
           {
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/DS/DeepSeek_Git branch diverged resolution_2026-03-10_11-14-44.md",
+                "file": "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "DeepSeek_Git branch diverged resolution_2026-03-10_11-14-44 的反向链接列表"
+              "title": "Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了 的反向链接列表"
             }
           }
         ],
@@ -196,8 +196,21 @@
   },
   "active": "9f5bc3a9d5793627",
   "lastOpenFiles": [
-    "Computer Science/git/将本地已经创建git库的obsidian vault 提交至 github.md",
     "Computer Science/DS/DeepSeek_Git branch diverged resolution_2026-03-10_11-14-44.md",
+    "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_9.png",
+    "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_8.png",
+    "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_78.png",
+    "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_77.png",
+    "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_76.png",
+    "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_75.png",
+    "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_74.png",
+    "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_73.png",
+    "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_72.png",
+    "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_71.png",
+    "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets",
+    "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了.md",
+    "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了",
+    "Computer Science/git/将本地已经创建git库的obsidian vault 提交至 github.md",
     "Computer Science/git/PR.md",
     "Computer Science/git/git克隆github项目到本地的三种方式.md",
     "Computer Science/git/Git codes detailed.md",
@@ -215,7 +228,6 @@
     "Computer Science/DS/DeepSeek_O2优化详解_2026-03-04_19-59-25.md",
     "高等数学/概念/全微分.md",
     "高等数学/AI",
-    "Computer Science/C++/例题/Pasted image 20260302210306.png",
     "高等数学/概念",
     "Computer Science",
     "高等数学",
@@ -227,20 +239,7 @@
     "Computer Science/C++/例题/遍历逐行整数.md",
     "Computer Science/codeforces",
     "Computer Science/C++/例题/P1516 青蛙的约会.md",
-    "Computer Science/C++/例题/P3811 【模板】模意义下的乘法逆元.md",
-    "Computer Science/C++/算法/扩展欧几里得算法.md",
     "Computer Science/数论",
-    "Computer Science/DS",
-    "Computer Science/C++/例题",
-    "Computer Science/git",
-    "Computer Science/C++/逻辑运算/images/Pasted image 20260226162110.png",
-    "Computer Science/C++/逻辑运算/images/Pasted image 20260226162108.png",
-    "Computer Science/C++/逻辑运算/images/Pasted image 20260226162053.png",
-    "Computer Science/C++/逻辑运算/images/Pasted image 20260226162046.png",
-    "Computer Science/C++/逻辑运算/images/Pasted image 20260226162042.png",
-    "Computer Science/C++/逻辑运算/images/Pasted image 20260226162038.png",
-    "Computer Science/C++/逻辑运算/images/Pasted image 20260226111210.png",
-    "Computer Science/C++/逻辑运算/images/Pasted image 20260226111158.png",
-    "Computer Science/C++/日常工具/assets/0_2.png"
+    "Computer Science/DS"
   ]
 }
