@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -194,7 +194,7 @@
       "bases:新建数据库": false
     }
   },
-  "active": "9f5bc3a9d5793627",
+  "active": "2dd04a6c97155e4c",
   "lastOpenFiles": [
     "Computer Science/git/将本地已经创建git库的obsidian vault 提交至 github.md",
     "Computer Science/DS/DeepSeek_面向过程与面向对象编程区别_2026-03-10_09-21-12.md",
