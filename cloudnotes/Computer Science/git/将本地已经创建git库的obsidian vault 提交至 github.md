@@ -17,7 +17,7 @@
 
 bash
 
-cd /你的Obsidian仓库路径
+cd  /你的Obsidian仓库路径
 
 ### 步骤三：关联本地仓库与GitHub远程仓库
 
