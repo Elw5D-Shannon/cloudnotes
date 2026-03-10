@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/git/将本地已经创建git库的obsidian vault 提交至 github.md",
+                "file": "Computer Science/DS/DeepSeek_面向过程与面向对象编程区别_2026-03-10_09-21-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "将本地已经创建git库的obsidian vault 提交至 github"
+              "title": "DeepSeek_面向过程与面向对象编程区别_2026-03-10_09-21-12"
             }
           }
         ]
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/git/将本地已经创建git库的obsidian vault 提交至 github.md",
+                "file": "Computer Science/DS/DeepSeek_面向过程与面向对象编程区别_2026-03-10_09-21-12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "将本地已经创建git库的obsidian vault 提交至 github 的大纲"
+              "title": "DeepSeek_面向过程与面向对象编程区别_2026-03-10_09-21-12 的大纲"
             }
           },
           {
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/git/将本地已经创建git库的obsidian vault 提交至 github.md",
+                "file": "Computer Science/DS/DeepSeek_面向过程与面向对象编程区别_2026-03-10_09-21-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "将本地已经创建git库的obsidian vault 提交至 github 的反向链接列表"
+              "title": "DeepSeek_面向过程与面向对象编程区别_2026-03-10_09-21-12 的反向链接列表"
             }
           }
         ],
@@ -196,6 +196,8 @@
   },
   "active": "9f5bc3a9d5793627",
   "lastOpenFiles": [
+    "Computer Science/git/将本地已经创建git库的obsidian vault 提交至 github.md",
+    "Computer Science/DS/DeepSeek_面向过程与面向对象编程区别_2026-03-10_09-21-12.md",
     "Computer Science/C++/概念/头文件.md",
     "Computer Science/C++/例题/U643929 解答.md",
     "Computer Science/C++/概念/数组.md",
@@ -228,8 +230,6 @@
     "Computer Science/C++/算法/O2优化.md",
     "Computer Science/数论",
     "Computer Science/C++/输入输出/格式化输出.md",
-    "Computer Science/C++/例题/P3901 数列找不同.md",
-    "Computer Science/C++/日常工具/循环.md",
     "Computer Science/DS",
     "Computer Science/C++/例题",
     "Computer Science/git",
