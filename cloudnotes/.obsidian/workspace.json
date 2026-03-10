@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/C++/例题/U643929 解答.md",
+                "file": "Computer Science/C++/输入输出/scan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "U643929 解答"
+              "title": "scan"
             }
           }
         ]
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/C++/例题/U643929 解答.md",
+                "file": "Computer Science/C++/输入输出/scan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "U643929 解答 的大纲"
+              "title": "scan 的大纲"
             }
           },
           {
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/C++/例题/U643929 解答.md",
+                "file": "Computer Science/C++/输入输出/scan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,11 +172,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "U643929 解答 的反向链接列表"
+              "title": "scan 的反向链接列表"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -194,14 +194,16 @@
       "bases:新建数据库": false
     }
   },
-  "active": "9f5bc3a9d5793627",
+  "active": "2dd04a6c97155e4c",
   "lastOpenFiles": [
-    "Pasted image 20260310210330.png",
-    "Computer Science/C++/日常工具/Notice.md",
+    "Computer Science/C++/输入输出/基本输入输出.md",
+    "Computer Science/C++/输入输出/scan.md",
+    "Computer Science/C++/输入输出/格式化输出.md",
     "Computer Science/C++/输入输出/大小写转换.md",
     "Computer Science/C++/输入输出/特殊输入.md",
-    "Computer Science/C++/输入输出/基本输入输出.md",
-    "Computer Science/C++/输入输出/格式化输出.md",
+    "Computer Science/C++/例题/U643929 解答.md",
+    "Pasted image 20260310210330.png",
+    "Computer Science/C++/日常工具/Notice.md",
     "Computer Science/DS/尝试本地部署OI-wiki.md",
     "高等数学/同济高数系列/同济高数笔记（下册）（4）.md",
     "高等数学/同济高数系列/同济高数笔记（下册）（3）.md",
@@ -225,7 +227,6 @@
     "Computer Science/python/SQL数据库.md",
     "Computer Science/python/python 赋值.md",
     "Computer Science/python/Pasted image 20260128155828.png",
-    "Computer Science/python/NumPy 科学计算函数详解(精简).md",
     "Computer Science/python",
     "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_9.png",
     "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_8.png",
@@ -233,7 +234,6 @@
     "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_77.png",
     "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_76.png",
     "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_75.png",
-    "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_74.png",
     "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets",
     "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了",
     "大学物理",
