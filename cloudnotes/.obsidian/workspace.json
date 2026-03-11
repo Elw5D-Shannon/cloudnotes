@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/C++/输入输出/scan.md",
+                "file": "高等数学/同济高数系列/同济高数笔记（下册）（1）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "scan"
+              "title": "同济高数笔记（下册）（1）"
             }
           }
         ]
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/C++/输入输出/scan.md",
+                "file": "高等数学/同济高数系列/同济高数笔记（下册）（1）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "scan 的大纲"
+              "title": "同济高数笔记（下册）（1） 的大纲"
             }
           },
           {
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/C++/输入输出/scan.md",
+                "file": "高等数学/同济高数系列/同济高数笔记（下册）（1）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "scan 的反向链接列表"
+              "title": "同济高数笔记（下册）（1） 的反向链接列表"
             }
           }
         ],
@@ -194,10 +194,12 @@
       "bases:新建数据库": false
     }
   },
-  "active": "2dd04a6c97155e4c",
+  "active": "9f5bc3a9d5793627",
   "lastOpenFiles": [
-    "Computer Science/C++/输入输出/基本输入输出.md",
+    "高等数学/同济高数系列/同济高数笔记（上册）.md",
+    "高等数学/AI/DeepSeek对话 - 全微分方程解释.md",
     "Computer Science/C++/输入输出/scan.md",
+    "Computer Science/C++/输入输出/基本输入输出.md",
     "Computer Science/C++/输入输出/格式化输出.md",
     "Computer Science/C++/输入输出/大小写转换.md",
     "Computer Science/C++/输入输出/特殊输入.md",
@@ -209,7 +211,6 @@
     "高等数学/同济高数系列/同济高数笔记（下册）（3）.md",
     "高等数学/同济高数系列/同济高数笔记（下册）（2）.md",
     "高等数学/同济高数系列/同济高数笔记（下册）（1）.md",
-    "高等数学/同济高数系列/同济高数笔记（上册）.md",
     "高等数学/同济高数系列/Pasted image 20251224000036.png",
     "高等数学/同济高数系列/Pasted image 20251224000029.png",
     "高等数学/同济高数系列",
@@ -225,7 +226,6 @@
     "Computer Science/python/图像隐写.md",
     "Computer Science/python/关键知识点.md",
     "Computer Science/python/SQL数据库.md",
-    "Computer Science/python/python 赋值.md",
     "Computer Science/python/Pasted image 20260128155828.png",
     "Computer Science/python",
     "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets/0_9.png",
