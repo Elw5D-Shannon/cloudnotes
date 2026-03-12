@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学/同济高数系列/同济高数笔记（上册）.md",
+                "file": "大创/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "同济高数笔记（上册）"
+              "title": "未命名"
             }
           }
         ]
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高等数学/同济高数系列/同济高数笔记（上册）.md",
+                "file": "大创/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "同济高数笔记（上册） 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高等数学/同济高数系列/同济高数笔记（上册）.md",
+                "file": "大创/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "同济高数笔记（上册） 的反向链接列表"
+              "title": "未命名 的反向链接列表"
             }
           }
         ],
@@ -194,8 +194,18 @@
       "bases:新建数据库": false
     }
   },
-  "active": "ad7d3d6059c4dd77",
+  "active": "9f5bc3a9d5793627",
   "lastOpenFiles": [
+    "大创/Pasted image 20260312200018.png",
+    "模电+数电/Pasted image 20260311205054.png",
+    "大创/未命名.md",
+    "大创",
+    "模电+数电/Pasted image 20260311205111.png",
+    "模电+数电/Pasted image 20260311213916.png",
+    "模电+数电/Pasted image 20260311213930.png",
+    "模电+数电/Pasted image 20260311231537.png",
+    "MarkDown超级教程 Obsidian版.md",
+    "高等数学/同济高数系列/同济高数笔记（上册）.md",
     "高等数学/同济高数系列/同济高数笔记（下册）（1）.md",
     "高等数学/同济高数系列/同济高数笔记（下册）（3）.md",
     "高等数学/表.md",
@@ -210,14 +220,8 @@
     "Computer Science/CTF/CTF 竞赛内容.md",
     "模电+数电/第一章 半导体器件.md",
     "Computer Science/CTF",
-    "Pasted image 20260311231537.png",
     "模电+数电/模电笔记/【知识点总结】模拟电子技术（模电）.md",
     "模电+数电/Pasted image 20260311204700.png",
-    "Pasted image 20260311213930.png",
-    "Pasted image 20260311213916.png",
-    "Pasted image 20260311205111.png",
-    "Pasted image 20260311205054.png",
-    "MarkDown超级教程 Obsidian版.md",
     "Computer Science/Pasted image 20260310210330.png",
     "模电+数电/模电笔记/assets/0_92.png",
     "模电+数电/模电笔记/assets/0_91.png",
@@ -228,7 +232,6 @@
     "模电笔记/【知识点总结】模拟电子技术（模电）.md",
     "模电笔记",
     "模电+数电",
-    "高等数学/同济高数系列/同济高数笔记（上册）.md",
     "高等数学/AI/DeepSeek对话 - 全微分方程解释.md",
     "Computer Science/C++/输入输出/scan.md",
     "Computer Science/C++/输入输出/基本输入输出.md",
@@ -236,11 +239,8 @@
     "Computer Science/C++/输入输出/大小写转换.md",
     "Computer Science/C++/输入输出/特殊输入.md",
     "Computer Science/C++/例题/U643929 解答.md",
-    "Computer Science/C++/日常工具/Notice.md",
-    "Computer Science/DS/尝试本地部署OI-wiki.md",
     "高等数学/同济高数系列",
     "Computer Science/python",
-    "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets",
-    "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了"
+    "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets"
   ]
 }
