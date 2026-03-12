@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/python/SQL数据库.md",
+                "file": "高等数学/表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL数据库"
+              "title": "表"
             }
           }
         ]
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/python/SQL数据库.md",
+                "file": "高等数学/表.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "SQL数据库 的大纲"
+              "title": "表 的大纲"
             }
           },
           {
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/python/SQL数据库.md",
+                "file": "高等数学/表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "SQL数据库 的反向链接列表"
+              "title": "表 的反向链接列表"
             }
           }
         ],
@@ -196,6 +196,8 @@
   },
   "active": "9f5bc3a9d5793627",
   "lastOpenFiles": [
+    "Computer Science/python/SQL数据库.md",
+    "高等数学/表.md",
     "Computer Science/python/NumPy 科学计算函数详解(精简).md",
     "Computer Science/python/IP地址.md",
     "Computer Science/python/正则表达式基础讲解.md",
@@ -236,8 +238,6 @@
     "Computer Science/C++/日常工具/Notice.md",
     "Computer Science/DS/尝试本地部署OI-wiki.md",
     "高等数学/同济高数系列/同济高数笔记（下册）（4）.md",
-    "高等数学/同济高数系列/同济高数笔记（下册）（3）.md",
-    "高等数学/同济高数系列/同济高数笔记（下册）（2）.md",
     "高等数学/同济高数系列",
     "Computer Science/python",
     "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets",
