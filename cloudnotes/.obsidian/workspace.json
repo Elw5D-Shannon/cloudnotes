@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/CTF/CTF 竞赛内容.md",
+                "file": "Computer Science/python/SQL数据库.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CTF 竞赛内容"
+              "title": "SQL数据库"
             }
           }
         ]
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/CTF/CTF 竞赛内容.md",
+                "file": "Computer Science/python/SQL数据库.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "CTF 竞赛内容 的大纲"
+              "title": "SQL数据库 的大纲"
             }
           },
           {
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/CTF/CTF 竞赛内容.md",
+                "file": "Computer Science/python/SQL数据库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "CTF 竞赛内容 的反向链接列表"
+              "title": "SQL数据库 的反向链接列表"
             }
           }
         ],
@@ -196,8 +196,15 @@
   },
   "active": "9f5bc3a9d5793627",
   "lastOpenFiles": [
-    "模电+数电/第一章 半导体器件.md",
+    "Computer Science/python/NumPy 科学计算函数详解(精简).md",
+    "Computer Science/python/IP地址.md",
+    "Computer Science/python/正则表达式基础讲解.md",
+    "Computer Science/python/音频处理.md",
+    "Computer Science/python/网页爬取.md",
+    "Computer Science/python/文件管理.md",
+    "Computer Science/python/图像隐写.md",
     "Computer Science/CTF/CTF 竞赛内容.md",
+    "模电+数电/第一章 半导体器件.md",
     "Computer Science/CTF",
     "Pasted image 20260311231537.png",
     "模电+数电/模电笔记/【知识点总结】模拟电子技术（模电）.md",
@@ -232,13 +239,6 @@
     "高等数学/同济高数系列/同济高数笔记（下册）（3）.md",
     "高等数学/同济高数系列/同济高数笔记（下册）（2）.md",
     "高等数学/同济高数系列",
-    "Computer Science/python/音频处理.md",
-    "Computer Science/python/进程管理.md",
-    "Computer Science/python/规格化编码（浮点数）简要介绍.md",
-    "Computer Science/python/网页爬取.md",
-    "Computer Science/python/知识梳理及考试范围.md",
-    "Computer Science/python/正则表达式基础讲解.md",
-    "Computer Science/python/文件管理.md",
     "Computer Science/python",
     "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了/assets",
     "Computer Science/Docker入门教程（非常详细）从零基础入门到精通，看完这一篇就够了"
