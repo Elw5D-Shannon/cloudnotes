@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大创/未命名 1.md",
+                "file": "Computer Science/git/将本地已经创建git库的obsidian vault 提交至 github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,11 +172,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 1 的反向链接列表"
+              "title": "将本地已经创建git库的obsidian vault 提交至 github 的反向链接列表"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -194,7 +194,7 @@
       "bases:新建数据库": false
     }
   },
-  "active": "9f5bc3a9d5793627",
+  "active": "2dd04a6c97155e4c",
   "lastOpenFiles": [
     "Computer Science/git/Git codes detailed.md",
     "Computer Science/git/PR.md",
