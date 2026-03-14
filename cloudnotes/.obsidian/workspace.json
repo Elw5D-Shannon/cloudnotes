@@ -110,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/git/将本地已经创建git库的obsidian vault 提交至 github.md",
+                "file": "模电+数电/第一章 半导体器件.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "将本地已经创建git库的obsidian vault 提交至 github 的大纲"
+              "title": "第一章 半导体器件 的大纲"
             }
           },
           {
@@ -177,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,7 +195,7 @@
       "bases:新建数据库": false
     }
   },
-  "active": "9f5bc3a9d5793627",
+  "active": "ad7d3d6059c4dd77",
   "lastOpenFiles": [
     "Pasted image 20260314095853.png",
     "Pasted image 20260314095713.png",
