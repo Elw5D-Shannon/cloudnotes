@@ -24,32 +24,30 @@
 ## ⚙️ 工作流示例：WSL + VS Code
 
 这是最常见的开发模式，结合了 Windows 的界面和 Linux 的运行时。
-
+  
+这是最常见的开发模式，结合了 Windows 的界面和 Linux 的运行时。
 1.  在 WSL 中打开项目目录：
-    ```bash
+```bash
     cd ~/myproject
     code .
+```
 
-### ✨ WSL 的主要优势
+2. VS Code 会在 Windows 中打开，但左下角会显示 **“WSL: Ubuntu”** 等标识。
+    
+3. 此时，VS Code 的终端、代码补全、调试器都自动关联到 WSL 子系统。
 
-  
 
-WSL 之所以如此受欢迎，是因为它解决了传统 Linux 使用方式的诸多痛点：
+##  📊 WSL 1 vs WSL 2 对比
 
-  
 
-1.  **无需离开 Windows**：你可以在运行 Linux 应用的同时，继续使用 Windows 上的所有软件（如 Office、浏览器、设计软件等），无需在系统间反复切换或重启[citation:2][citation:4]。
+如果需要选择版本，可以参考以下对比：
 
-2.  **轻量级与高性能**：相比运行完整虚拟机带来的资源开销，WSL 特别是 WSL 2，使用轻量级实用工具启动极快，占用的内存和CPU资源也少得多[citation:8][citation:9]。
+|特性|WSL 1|WSL 2|
+|---|---|---|
+|**架构**|转换层 (将 Linux 调用转为 Windows 内核调用)|轻量级实用工具 (运行在管理程序上)|
+|**文件性能**|⭐⭐⭐ (跨 OS 文件系统操作更快)|⭐⭐ (跨 OS 文件系统较慢，建议将文件放在 Linux 卷内)|
+|**系统调用兼容**|部分|⭐⭐⭐ (完整 Linux 内核，兼容性 100%)|
+|**启动速度**|极快|较快|
+|**与 Docker 集成**|有限|⭐⭐⭐ (原生支持)|
 
-3.  **文件系统无缝集成**：你可以通过 `/mnt/c/` 路径在 Linux 中访问 Windows 文件（如 C 盘），也可以在 Windows 资源管理器中通过 `\\wsl$\` 直接访问 Linux 子系统中的文件，操作起来就像在同一个系统里一样[citation:4][citation:6]。
-
-4.  **官方支持与丰富的发行版**：WSL 由微软官方开发和支持，并已在 2025 年开源[citation:1][citation:3][citation:8]。你可以从 Microsoft Store 轻松安装 Ubuntu、Debian、Kali Linux、Fedora 等多种流行发行版[citation:2][citation:5]。
-
-  
-
-WSL 最典型的应用场景之一，是结合 VS Code 进行开发。你可以在 Windows 的 VS Code 中，通过 `Remote - WSL` 扩展，直接打开 WSL 里的项目代码进行编辑、调试，而终端和运行环境则完全基于 Linux。这种体验既拥有了 Windows 下优秀的用户界面，又确保了和生产环境一致的 Linux 运行时。
-
-  
-
-如果你正打算学习 Linux，或者工作中需要在 Windows 和 Linux 环境之间切换，WSL 无疑是一个非常值得尝试的解决方案。
+> **提示**：如果你主要使用 WSL 操作 Windows 项目文件，建议用 WSL 1；如果你需要完整的 Linux 环境（如运行 Docker），建议升级到 WSL 2。
